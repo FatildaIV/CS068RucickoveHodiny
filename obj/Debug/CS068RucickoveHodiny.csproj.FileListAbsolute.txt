@@ -1,0 +1,9 @@
+C:\Users\michal.michna\Documents\Visual Studio 2017\Projects\CS068RucickoveHodiny\bin\Debug\CS068RucickoveHodiny.exe.config
+C:\Users\michal.michna\Documents\Visual Studio 2017\Projects\CS068RucickoveHodiny\bin\Debug\CS068RucickoveHodiny.exe
+C:\Users\michal.michna\Documents\Visual Studio 2017\Projects\CS068RucickoveHodiny\bin\Debug\CS068RucickoveHodiny.pdb
+C:\Users\michal.michna\Documents\Visual Studio 2017\Projects\CS068RucickoveHodiny\obj\Debug\CS068RucickoveHodiny.csprojResolveAssemblyReference.cache
+C:\Users\michal.michna\Documents\Visual Studio 2017\Projects\CS068RucickoveHodiny\obj\Debug\CS068RucickoveHodiny.Form1.resources
+C:\Users\michal.michna\Documents\Visual Studio 2017\Projects\CS068RucickoveHodiny\obj\Debug\CS068RucickoveHodiny.Properties.Resources.resources
+C:\Users\michal.michna\Documents\Visual Studio 2017\Projects\CS068RucickoveHodiny\obj\Debug\CS068RucickoveHodiny.csproj.GenerateResource.Cache
+C:\Users\michal.michna\Documents\Visual Studio 2017\Projects\CS068RucickoveHodiny\obj\Debug\CS068RucickoveHodiny.exe
+C:\Users\michal.michna\Documents\Visual Studio 2017\Projects\CS068RucickoveHodiny\obj\Debug\CS068RucickoveHodiny.pdb
